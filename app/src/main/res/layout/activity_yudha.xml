@@ -33,7 +33,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/heading_main"
         app:layout_constraintVertical_bias="0.397"
-        app:srcCompat="@drawable/reza"
+        app:srcCompat="@drawable/yudha"
         tools:ignore="ContentDescription" />
 
     <ScrollView
@@ -59,7 +59,7 @@
                 android:id="@+id/desc"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/profile_desc" />
+                android:text="@string/profile_yp" />
 
             <View
                 android:id="@+id/divider5"
@@ -67,12 +67,6 @@
                 android:layout_height="10dp"
                 android:background="?android:attr/listDivider"
                 android:visibility="invisible" />
-
-            <Button
-                android:id="@+id/ig_button"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:text="@string/ig_button" />
 
             <View
                 android:id="@+id/divider13"
@@ -85,8 +79,18 @@
                 android:id="@+id/fb_button"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/fb_button" />
+                android:text="@string/fb_buttonyp" />
         </LinearLayout>
     </ScrollView>
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="My Simple Introduction"
+        app:layout_constraintBottom_toTopOf="@+id/scrollView2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

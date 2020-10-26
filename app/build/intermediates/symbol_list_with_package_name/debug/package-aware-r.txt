@@ -807,6 +807,7 @@ drawable notify_panel_notification_icon_bg
 drawable reza
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+drawable yudha
 id ALT
 id CTRL
 id FUNCTION
@@ -997,6 +998,7 @@ id percent
 id position
 id postLayout
 id profile_button
+id profile_buttonyp
 id progress_circular
 id progress_horizontal
 id radio
@@ -1012,6 +1014,7 @@ id scrollIndicatorDown
 id scrollIndicatorUp
 id scrollView
 id scrollView2
+id scrollView3
 id search_badge
 id search_bar
 id search_button
@@ -1064,6 +1067,7 @@ id text
 id text2
 id textSpacerNoButtons
 id textSpacerNoTitle
+id textView
 id time
 id title
 id titleDividerNoCustom
@@ -1129,6 +1133,7 @@ layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_main
 layout activity_reza
+layout activity_yudha
 layout custom_dialog
 layout notification_action
 layout notification_action_tombstone
@@ -1171,11 +1176,15 @@ string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
 string app_name
 string fb_button
+string fb_buttonyp
 string heading_main
 string heading_reza
+string heading_yp
 string ig_button
 string profile_button
+string profile_buttonyp
 string profile_desc
+string profile_yp
 string search_menu_title
 string status_bar_notification_info_overflow
 string tautan_button

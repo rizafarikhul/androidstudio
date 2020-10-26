@@ -18,4 +18,8 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(this, reza.class);
         startActivity(intent);
     }
+    public void ProfileYudha(View view) {
+        Intent intent = new Intent(this, activity_yudha.class);
+        startActivity(intent);
+    }
 }
