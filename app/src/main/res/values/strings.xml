@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">App Kelompok</string>
     <string name="heading_main">Hai! Selamat datang!</string>
     <string name="title_tautan">Ceramah Ust. Adi Hidayat</string>
     <string name="tautan_button">Open in Youtube</string>
     <string name="profile_button">M Reza Ali F</string>
+    <string name="heading_reza">Halo yang disana!</string>
+    <string name="profile_desc">
+        Hi there, my name is <b>Reza</b>. My full name is <b><i>Mohammad Reza Ali Firdaus</i></b>. I am 19 years old currently, live in Surabaya, East Java, Indonesia. I am a colleger right now studying at Islamic University of Indonesia, bachelor of Informatics Engineering.
+        \n\n
+        I have my interest for becoming Frontend Web Developer and Game Developer (still learning, dont mention me), and i want to become a successful developer in the future.. so i hope i can do it (hope you too). I have a big enthusiast in both world of game and web development, and so easy to interested in something interesting.
+        \n\n
+        Feel free to explore, and ask me by contacting my social media that i have provide it on the contact section. If you want me to collaborate in your projects, dont hesitate to contact me. I will think it over if i have no or less hectic projects on my schedule.
+        \n\n
+        I will see you on the next time.
+    </string>
+    <string name="ig_button">My Instagram</string>
+    <string name="fb_button">My Facebook</string>
 </resources>

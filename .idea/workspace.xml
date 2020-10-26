@@ -9,7 +9,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac7d5efb-4a3c-4542-bfdb-48c93dd310c9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/myapplication/reza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_reza.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/myapplication/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/myapplication/MainActivity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
     </list>
@@ -27,7 +36,12 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
-        <projects_view />
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
       </state>
     </system>
   </component>
@@ -48,8 +62,14 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.-354690079">
+      <recent name="com.example.myapplication" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -59,7 +79,7 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="app" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -124,26 +144,82 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:D:/Github/androidstudio/app/src/main/res/layout" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="818" y="353" key="AndroidCreateXmlResourceDialog" timestamp="1603715961815">
+    <state x="818" y="353" key="AndroidCreateXmlResourceDialog" timestamp="1603718624040">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="818" y="353" key="AndroidCreateXmlResourceDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1603715961815" />
-    <state x="656" y="378" key="com.intellij.ide.util.TipDialog" timestamp="1603711938303">
+    <state x="818" y="353" key="AndroidCreateXmlResourceDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1603718624040" />
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1603719510798">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="656" y="378" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1603711938303" />
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1603719510798" />
+    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1603719510798">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1603719510798" />
+    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1603719510798">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1603719510798" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1603719510798">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1603719510798" />
+    <state x="656" y="378" key="com.intellij.ide.util.TipDialog" timestamp="1603716677175">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="656" y="378" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1603716677175" />
+    <state x="769" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603716512348">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="769" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1603716512348" />
     <state x="591" y="85" width="737" height="909" key="find.popup" timestamp="1603716051068">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="591" y="85" width="737" height="909" key="find.popup/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1603716051068" />
-    <state x="616" y="260" key="run.anything.popup" timestamp="1603632577930">
+    <state x="616" y="260" key="run.anything.popup" timestamp="1603719335404">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="616" y="260" key="run.anything.popup/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1603632577930" />
-    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1603715211096">
+    <state x="616" y="260" key="run.anything.popup/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1603719335404" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1603717100980">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1603715211096" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1603717100980" />
   </component>
 </project>
