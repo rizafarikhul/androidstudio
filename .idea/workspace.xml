@@ -2,16 +2,16 @@
 <project version="4">
   <component name="AndroidLayouts">
     <shared>
-      <config />
+      <config>
+        <device id="pixel_2" />
+      </config>
     </shared>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac7d5efb-4a3c-4542-bfdb-48c93dd310c9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,17 +125,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="818" y="353" key="AndroidCreateXmlResourceDialog" timestamp="1603713759674">
+    <state x="818" y="353" key="AndroidCreateXmlResourceDialog" timestamp="1603715961815">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="818" y="353" key="AndroidCreateXmlResourceDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1603713759674" />
+    <state x="818" y="353" key="AndroidCreateXmlResourceDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1603715961815" />
     <state x="656" y="378" key="com.intellij.ide.util.TipDialog" timestamp="1603711938303">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="656" y="378" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1603711938303" />
+    <state x="591" y="85" width="737" height="909" key="find.popup" timestamp="1603716051068">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="591" y="85" width="737" height="909" key="find.popup/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1603716051068" />
     <state x="616" y="260" key="run.anything.popup" timestamp="1603632577930">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="616" y="260" key="run.anything.popup/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1603632577930" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1603715211096">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1603715211096" />
   </component>
 </project>
